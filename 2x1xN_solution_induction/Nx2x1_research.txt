@@ -1,0 +1,75 @@
+13, 2, 1:
+
+Map:
+         BB  BB                     
+
+ AA      AA  CC      BB      AA  AA 
+ Bo      DD  CC      BB      GG  FF 
+ EE      DD  CC      HH      GG  FF 
+ EE      DD  CC      HH      GG  FF 
+ EE      DD  II      HH      GG  FF 
+ EE      JJ  II      HH      MM  LL 
+ KK      JJ  II      NN      MM  LL 
+ KK      JJ  II      NN      MM  LL 
+ KK      JJ  OO      NN      MM  LL 
+ KK      PP  OO      NN      SS  RR 
+ QQ      PP  OO      TT      SS  RR 
+ QQ      PP  OO      TT      SS  RR 
+ QQ      PP  To      TT      SS  RR 
+
+         QQ  TT                     
+
+         RR  SS                     
+         RR  SS                     
+         RR  SS                     
+         RR  SS                     
+         LL  MM                     
+         LL  MM                     
+         LL  MM                     
+         LL  MM                     
+         FF  GG                     
+         FF  GG                     
+         FF  GG                     
+         FF  GG                     
+         AA  AA                     
+
+
+
+15, 2, 1:
+
+Map:
+         DD  DD                     
+
+ CC      CC  EE      DD      CC  CC 
+ BB      BB  EE      DD      BB  BB 
+ AA      FF  EE      AA      AA  AA 
+ Bo      FF  EE      JJ      II  HH 
+ GG      FF  KK      JJ      II  HH 
+ GG      FF  KK      JJ      II  HH 
+ GG      LL  KK      JJ      II  HH 
+ GG      LL  KK      PP      OO  NN 
+ MM      LL  QQ      PP      OO  NN 
+ MM      LL  QQ      PP      OO  NN 
+ MM      RR  QQ      PP      OO  NN 
+ MM      RR  QQ      VV      UU  TT 
+ SS      RR  WW      VV      UU  TT 
+ SS      RR  WW      VV      UU  TT 
+ SS      To  WW      VV      UU  TT 
+
+         SS  WW                     
+
+         TT  UU                     
+         TT  UU                     
+         TT  UU                     
+         TT  UU                     
+         NN  OO                     
+         NN  OO                     
+         NN  OO                     
+         NN  OO                     
+         HH  II                     
+         HH  II                     
+         HH  II                     
+         HH  II                     
+         AA  AA                     
+         BB  BB                     
+         CC  CC                     

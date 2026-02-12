@@ -1,0 +1,34 @@
+Net:
+..........................#......  (sideBump: 7)
+.........................####....  (sideBump: 9)
+......................####.......  (sideBump: 9)
+...................####..........  (sideBump: 9)
+................####.............  (sideBump: 6)
+................####.............  (sideBump: 5)
+.................####............  (sideBump: 9)
+..............####...............  (sideBump: 9)
+...........####..................  (sideBump: 9)
+........####.....................  (sideBump: 5)
+.........####....................  (sideBump: 6)
+.........####....................  (sideBump: 9)
+......####.......................  (sideBump: 9)
+...####..........................  (sideBump: 9)
+####.............................  (sideBump: 4)
+..#..............................
+
+
+
+Map:
+         Bo  JJ  JJ  JJ  JJ                                 
+
+ AA      AA  AA  II  II  II      II      KK  KK  KK  KK  AA 
+ HH      HH  HH  HH  LL  LL      LL      LL  BB  BB  BB  BB 
+ GG      MM  MM  MM  MM  CC      CC      CC  CC  GG  GG  GG 
+ NN      NN  DD  DD  DD  DD      FF      FF  FF  FF  NN  NN 
+
+         To  EE  EE  EE  EE                                 
+
+         NN  NN  FF  FF  FF                                 
+         GG  GG  GG  CC  CC                                 
+         BB  BB  BB  BB  LL                                 
+         AA  KK  KK  KK  KK                                 

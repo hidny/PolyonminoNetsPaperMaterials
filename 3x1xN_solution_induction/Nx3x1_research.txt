@@ -1,0 +1,104 @@
+
+7x3x1:
+Map:
+         GG  BB  CC                         
+
+ Bo      AA  BB  CC      DD      EE  FF  GG 
+ HH      AA  BB  CC      DD      EE  FF  GG 
+ HH      AA  BB  CC      DD      EE  FF  GG 
+ HH      AA  JJ  KK      DD      EE  FF  To 
+ HH      II  JJ  KK      OO      OO  OO  OO 
+ NN      II  JJ  KK      LL      NN  NN  NN 
+ MM      II  JJ  KK      LL      MM  MM  MM 
+
+         II  LL  LL                         
+
+         MM  MM  MM                         
+         NN  NN  NN                         
+         OO  OO  OO                         
+         To  FF  EE                         
+         GG  FF  EE                         
+         GG  FF  EE                         
+         GG  FF  EE                
+		 
+8x3x1:
+Map:
+         AA  BB  CC                         
+
+ Bo      AA  BB  CC      DD      CC  BB  AA 
+ HH      GG  FF  EE      DD      CC  BB  AA 
+ HH      GG  FF  EE      DD      KK  JJ  II 
+ HH      GG  FF  EE      DD      KK  JJ  II 
+ HH      GG  FF  EE      LL      KK  JJ  II 
+ To      OO  NN  MM      LL      KK  JJ  II 
+ QQ      OO  NN  MM      LL      QQ  QQ  QQ 
+ PP      OO  NN  MM      LL      PP  PP  PP 
+
+         OO  NN  MM                         
+
+         PP  PP  PP                         
+         QQ  QQ  QQ                         
+         II  JJ  KK                         
+         II  JJ  KK                         
+         II  JJ  KK                         
+         II  JJ  KK                         
+         AA  BB  CC                         
+         AA  BB  CC                         
+
+9x3x1: (fully grained)
+Map:
+         AA  FF  CC                         
+
+ Bo      GG  FF  CC      DD      CC  BB  AA 
+ HH      GG  FF  CC      DD      KK  BB  AA 
+ HH      GG  FF  EE      DD      KK  BB  AA 
+ HH      GG  NN  EE      DD      KK  BB  II 
+ HH      OO  NN  EE      LL      KK  JJ  II 
+ PP      OO  NN  EE      LL      SS  JJ  II 
+ PP      OO  NN  MM      LL      SS  JJ  II 
+ PP      OO  RR  MM      LL      SS  JJ  QQ 
+ PP      QQ  RR  MM      To      SS  RR  QQ 
+
+         QQ  RR  MM                         
+
+         QQ  RR  SS                         
+         QQ  JJ  SS                         
+         II  JJ  SS                         
+         II  JJ  SS                         
+         II  JJ  KK                         
+         II  BB  KK                         
+         AA  BB  KK                         
+         AA  BB  KK                         
+         AA  BB  CC                         
+           
+
+
+10x3x1:
+Map:
+         AA  BB  CC                         
+
+ Bo      AA  BB  CC      DD      CC  BB  GG 
+ HH      AA  BB  CC      DD      EE  FF  GG 
+ HH      AA  JJ  KK      DD      EE  FF  GG 
+ HH      II  JJ  KK      DD      EE  FF  GG 
+ HH      II  JJ  KK      LL      EE  FF  OO 
+ PP      II  JJ  KK      LL      MM  NN  OO 
+ PP      II  RR  SS      LL      MM  NN  OO 
+ PP      QQ  RR  SS      LL      MM  NN  OO 
+ PP      QQ  RR  SS      TT      MM  NN  To 
+ UU      QQ  RR  SS      TT      UU  UU  UU 
+
+         QQ  TT  TT                         
+
+         UU  UU  UU                         
+         To  NN  MM                         
+         OO  NN  MM                         
+         OO  NN  MM                         
+         OO  NN  MM                         
+         OO  FF  EE                         
+         GG  FF  EE                         
+         GG  FF  EE                         
+         GG  FF  EE                         
+         GG  BB  CC                         
+
+

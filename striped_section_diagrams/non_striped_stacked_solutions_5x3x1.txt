@@ -1,0 +1,131 @@
+Non-striped solution #1:
+
+Net:
+....#.........  (sideBump: 9)
+.####.........  (sideBump: 6)
+.####.........  (sideBump: 7)
+####..........  (sideBump: 5)
+.####.........  (sideBump: 3)
+....####......  (sideBump: 6)
+....####......  (sideBump: 6)
+....####......  (sideBump: 5)
+.....####.....  (sideBump: 4)
+.......####...  (sideBump: 6)
+.......####...  (sideBump: 6)
+.......####...  (sideBump: 3)
+..........#...
+
+
+
+Solution code: 2223796870973696898740092968710097362437428747776
+Map:
+         Bo  To  KK  JJ  HH                                 
+
+ AA      AA  AA  KK  JJ  II      HH      GG  GG  GG  GG  AA 
+ BB      BB  BB  KK  JJ  II      HH      FF  FF  FF  FF  BB 
+ CC      CC  CC  KK  JJ  II      HH      EE  EE  EE  EE  CC 
+
+         DD  DD  DD  DD  II                                 
+
+         CC  EE  EE  EE  EE                                 
+         BB  FF  FF  FF  FF                                 
+         AA  GG  GG  GG  GG    
+
+
+Non-striped solution #2:
+Net:
+......#.......  (sideBump: 6)
+......####....  (sideBump: 6)
+......####....  (sideBump: 5)
+.......####...  (sideBump: 7)
+......####....  (sideBump: 9)
+...####.......  (sideBump: 6)
+...####.......  (sideBump: 6)
+...####.......  (sideBump: 7)
+..####........  (sideBump: 8)
+####..........  (sideBump: 6)
+####..........  (sideBump: 6)
+####..........  (sideBump: 4)
+..#...........
+
+
+Solution code: 2223796870973696898740092968710097362712306650624
+Map:
+         Bo  To  KK  JJ  HH                                 
+
+ AA      AA  GG  GG  GG  GG      HH      II  JJ  KK  AA  AA 
+ BB      BB  FF  FF  FF  FF      HH      II  JJ  KK  BB  BB 
+ CC      CC  EE  EE  EE  EE      HH      II  JJ  KK  CC  CC 
+
+         DD  DD  DD  DD  II                                 
+
+         CC  CC  KK  JJ  II                                 
+         BB  BB  KK  JJ  II                                 
+         AA  AA  KK  JJ  II                                 
+
+
+
+Non-striped solution #3:
+Net:
+....#.........  (sideBump: 9)
+.####.........  (sideBump: 6)
+.####.........  (sideBump: 7)
+####..........  (sideBump: 5)
+.####.........  (sideBump: 3)
+....####......  (sideBump: 6)
+....####......  (sideBump: 6)
+....####......  (sideBump: 5)
+.....####.....  (sideBump: 4)
+.......####...  (sideBump: 6)
+.......####...  (sideBump: 6)
+.......####...  (sideBump: 4)
+.........#....
+
+
+
+Solution code: 2223796870973696898740092968710097362437462298112
+Map:
+         Bo  To  KK  JJ  HH                                 
+
+ AA      AA  AA  KK  JJ  II      HH      GG  GG  GG  GG  AA 
+ BB      BB  BB  KK  JJ  II      HH      FF  FF  FF  FF  BB 
+ CC      CC  CC  KK  JJ  II      HH      EE  EE  EE  EE  CC 
+
+         DD  DD  DD  DD  II                                 
+
+         CC  EE  EE  EE  EE                                 
+         BB  FF  FF  FF  FF                                 
+         AA  GG  GG  GG  GG                                 
+
+
+Non-striped solution #4:
+Net:
+........#.......  (sideBump: 6)
+........####....  (sideBump: 5)
+.........####...  (sideBump: 7)
+........####....  (sideBump: 9)
+.....####.......  (sideBump: 6)
+.....####.......  (sideBump: 6)
+.....####.......  (sideBump: 7)
+....####........  (sideBump: 7)
+...####.........  (sideBump: 6)
+...####.........  (sideBump: 6)
+...####.........  (sideBump: 9)
+####............  (sideBump: 3)
+...#............
+
+
+
+Solution code: 149619605114640482426029499704048740486998081438578902016
+Map:
+         AA  Bo  To  KK  II                                 
+
+ BB      AA  HH  HH  HH  HH      II      JJ  KK  BB  BB  BB 
+ CC      AA  GG  GG  GG  GG      II      JJ  KK  CC  CC  CC 
+ DD      AA  FF  FF  FF  FF      II      JJ  KK  DD  DD  DD 
+
+         EE  EE  EE  EE  JJ                                 
+
+         DD  DD  DD  KK  JJ                                 
+         CC  CC  CC  KK  JJ                                 
+         BB  BB  BB  KK  JJ                                 
